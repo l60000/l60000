@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="ETERNAL TEAM" src="https://github.com/user-attachments/assets/3ba386a6-30ad-4b31-a3ec-557147a9c84f" />
+<img width="1254" height="1254" alt="bb64224b-4bc2-4f0a-979d-36c678c96399" src="https://github.com/user-attachments/assets/1c2e4a7d-8ce4-46e6-8a5b-03d074dc0366" />
 
 <br>
 
