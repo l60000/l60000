@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Network+Security;Cybersecurity;Linux;Eternal+Team+EVER." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Eternal+Team+EVER." />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header"/>
