@@ -19,12 +19,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header"/>
 
-## Current Mission
+## Conhecimentos Técnicos
 
 - Vulnerability Assessment
 - Cisco Networking
 - Web Application Exploitation
-- Blue team
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header"/>
 
